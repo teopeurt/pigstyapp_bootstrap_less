@@ -44,3 +44,4 @@ gem "email_spec", ">= 1.2.1", :group => :test
 gem "twitter-bootstrap-rails", ">= 2.1.3", :group => :assets
 gem "therubyracer", ">= 0.10.2", :group => :assets, :platform => :ruby
 gem "simple_form", ">= 2.0.2"
+gem "hub", ">= 1.10.2", :require => nil, :group => [:development]
